@@ -8,10 +8,10 @@ __pycache__/
 *.sqlite3
 .DS_Store
 
-# Jupyter
-.ipynb_checkpoints
+
 
 # ZenML
 zenml_data/
 .mlflow/
 data/
+notebooks/cleaned_nyc311_full.parquet
